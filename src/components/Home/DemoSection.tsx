@@ -79,7 +79,7 @@ const DemoSection = ({
   };
 
   return (
-    <section className="w-full py-16 px-4 bg-slate-50">
+    <section className="w-full py-16 px-4 ">
       <div className="max-w-6xl mx-auto">
         <div className="text-center mb-10">
           <h2 className="text-3xl font-bold tracking-tight text-slate-900 mb-2">
